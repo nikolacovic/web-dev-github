@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 My first commit!jj
 git status
 
 
 
+=======
+My first commit!
+blalal
+>>>>>>> feature
 here we go with another commit
 
