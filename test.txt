@@ -1,4 +1,6 @@
-My first commit! promje .
+My first commit!jj
+git status
+
 
 
 here we go with another commit
